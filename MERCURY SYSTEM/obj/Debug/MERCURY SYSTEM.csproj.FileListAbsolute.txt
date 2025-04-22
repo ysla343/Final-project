@@ -1,0 +1,14 @@
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe.config
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.pdb
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.AssemblyReference.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmMainMenu.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Properties.Resources.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form1.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.GenerateResource.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.exe
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.pdb
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmAddMedicine.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form5.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmsellmedicine.resources
